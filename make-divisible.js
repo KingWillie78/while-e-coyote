@@ -7,4 +7,4 @@ while(num % num2 != 0){
     x = x + 1
 }
 
-console.log(num, 'is divisible by', num2);
+console.log(num,' is divisible by', num2);

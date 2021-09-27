@@ -8,7 +8,6 @@ let count = 0;
 let fibonacciValue1 = 0;
 let fibonaccivalue2 = 1;
 
-
 while (count < n) {
     console.log(fibonacciValue1);
     const fibonacciValue3 = fibonacciValue1 + fibonaccivalue2;
